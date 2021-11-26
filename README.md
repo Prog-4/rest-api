@@ -1,6 +1,4 @@
-# rest-api
-
-# prog4_asg2
+# rest-api prog4_asg3
 
 This application is an extension of assignment 1, simplifying its features and implementing a mobile GUI through Android Studio
 
