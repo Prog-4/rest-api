@@ -15,6 +15,6 @@ http://34.68.196.188:8080/
 Method | Endpoint | Params | Description
 --- | --- | --- | --- 
 GET | /api/items/ | | Find list of all items
-GET | /api/items/name=Googly%20Eyes | | Find specific item by name
-GET | /api/items/id=1000 | | Find specific item by ID
-POST | /api/items/ | PARAMS: id, name, quantity, price, supplier_id | Adds a new Item
+GET | /api/items/name=Googly%20Eyes | name | Find specific item by name
+GET | /api/items/id=1000 | id | Find specific item by ID
+POST | /api/items/ | id, name, quantity, price, supplier_id | Adds a new Item
